@@ -1,9 +1,9 @@
 # Site
-title: Halve
+title: Wen_Carl
 description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
-logo: halve.png                                       # Site logo
-locale: en_US
+url: https://wen-carl.github.io/
+logo: sabo.jpg                                       # Site logo
+locale: zh_CN
 
 # Left Block Images
 background:
@@ -29,12 +29,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+QQ/Wechat:         1102168166
+github:             wen_carl
+email:             wen_carl0701@163.com
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
