@@ -1,8 +1,8 @@
 # Site
 title: Wen_Carl
-description: Stylish, Two-Column Jekyll Theme
+description: iOS & Android
 url: https://wen-carl.github.io/
-logo: sabo.jpg                                       # Site logo
+logo: sabo.png                                       # Site logo
 locale: zh_CN
 
 # Left Block Images
@@ -29,9 +29,9 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-QQ/Wechat:         1102168166
-github:             wen_carl
-email:             wen_carl0701@163.com
+#QQ/Wechat:         1102168166
+github:             wen-carl
+email:              wen_carl0701@163.com
 #google.plus:        username
 #twitter:            username
 #facebook:           username
@@ -53,7 +53,7 @@ email:             wen_carl0701@163.com
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
