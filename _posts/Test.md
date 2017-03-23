@@ -2,18 +2,22 @@
 layout: post
 title:  "First Try."
 date:   2017-03-23
-excerpt: "Stylish, two-column Jekyll theme for your blog."
+excerpt: "Do your best."
 tag:
 - Try 
 - First
+- Image
 - blog
 ---
 
-<a href="{{ site.url }}/images/halve-home-image.png"><img src="{{ site.url }}/images/20170323/happines.jpg" alt="Home Page of Halve"></a>  
+Try It.
+=============
+
+<a href="{{ site.url }}/images/20170323/happines.jp"><img src="{{ site.url }}/images/20170323/happines.jpg" alt="Home Page of Halve"></a>  
 
 <center><b>笑忘书</b></center><br>
      
-	 可以不在乎，才能对别人在乎。  --《笑忘书》
+ 可以不在乎，才能对别人在乎。  --《笑忘书》
  This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)). I couldn't stop myself to port this theme when I saw his site. And he kindly gave me permission to share this with you.
 
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Halve&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
